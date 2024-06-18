@@ -7,7 +7,7 @@ This repository hosts:
 ### Install
 
 ```sh
-pip install git+https://github.com/openai/sparse_autoencoder.git
+pip install git+https://github.com/EricX22/sparse_autoencoder.git
 ```
 
 ### Code structure
